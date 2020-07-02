@@ -14,7 +14,7 @@ body {font-family: 'Noto Sans KR', sans-serif; font-size: 14px;}
 #skip-nav:focus {top: 0;}
 .mo {display: none;}
 
-header {position: fixed; top: 0; left: 0; width: 100%; height: 100px; line-height: 100px; background: rgba(0, 0, 0, 0.2); z-index: 200;}
+header {position: fixed; top: 0; left: 0; width: 100%; height: 100px; line-height: 100px; background: rgba(0, 0, 0, 0.2); z-index: 200; }
 .innerHeader {width: 1600px; margin: 0 auto; box-sizing: border-box; overflow: hidden;}
 .innerHeader .logo {float: left; padding-top: 15px;}
 .innerHeader .logo img {width: 100%; height: auto;}
